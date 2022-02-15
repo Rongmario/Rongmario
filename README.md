@@ -6,4 +6,6 @@
 
   <p align="center"> Cringe Trophies: </p>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rongmario&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rongmario&theme=onedark&column=8" class="center">
+  </p>
