@@ -2,7 +2,7 @@
  
   <p align="center"> Jack of all trades, master of <s>none</s> all </p>
   
-  <p align="center"> That's it, what do you want from me? </p>
+  <p align="center"> People you worship, simps for me. </p>
 
   <p align="center"> Cringe Trophies: </p>
  
